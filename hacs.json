@@ -1,0 +1,5 @@
+{
+  "name": "Victron BLE (connectable device fix)",
+  "homeassistant": "2024.12.0",
+  "render_readme": true
+}
